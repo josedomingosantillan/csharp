@@ -1,0 +1,15 @@
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\bin\Debug\net6.0-windows\factorial.exe
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\bin\Debug\net6.0-windows\factorial.deps.json
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\bin\Debug\net6.0-windows\factorial.runtimeconfig.json
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\bin\Debug\net6.0-windows\factorial.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\bin\Debug\net6.0-windows\factorial.pdb
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.csproj.AssemblyReference.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.AssemblyInfoInputs.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.AssemblyInfo.cs
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.csproj.CoreCompileInputs.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\refint\factorial.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.pdb
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\factorial.genruntimeconfig.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\factorial\factorial\obj\Debug\net6.0-windows\ref\factorial.dll

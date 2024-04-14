@@ -1,0 +1,15 @@
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\bin\Debug\net6.0-windows\Persona GUI.exe
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\bin\Debug\net6.0-windows\Persona GUI.deps.json
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\bin\Debug\net6.0-windows\Persona GUI.runtimeconfig.json
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\bin\Debug\net6.0-windows\Persona GUI.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\bin\Debug\net6.0-windows\Persona GUI.pdb
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.csproj.AssemblyReference.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.AssemblyInfoInputs.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.AssemblyInfo.cs
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.csproj.CoreCompileInputs.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\refint\Persona GUI.dll
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.pdb
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\Persona GUI.genruntimeconfig.cache
+C:\Users\MSI PRENDAMEX\RiderProjects\Persona GUI\Persona GUI\obj\Debug\net6.0-windows\ref\Persona GUI.dll
